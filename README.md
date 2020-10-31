@@ -1,10 +1,6 @@
 ### proj1 
 
 
-<!--
-**Juliafrances28/Juliafrances28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 <h1 align = "center" > NJ Covid-19 Testing App </h1>
 
 <h2>Screenshot of Deployed application on various devices<h2>
